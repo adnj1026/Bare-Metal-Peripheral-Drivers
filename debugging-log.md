@@ -17,3 +17,13 @@
 - Issue unresolved
 - Investigating CMSIS core debug and ITM initialization in bare-metal context
 - To continue next session
+
+
+## SWV printf not visible on Port 0 (2025-12-29)
+
+- No debugging performed over last 3 days
+- Resuming investigation from Hypothesis: DEMCR TRCENA bit
+
+[Hypotheses]
+[What I Tried]
+[Current Status]
