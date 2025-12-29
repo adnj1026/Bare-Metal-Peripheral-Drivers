@@ -24,6 +24,20 @@
 - No debugging performed over last 3 days
 - Resuming investigation from Hypothesis: DEMCR TRCENA bit
 
-[Hypotheses]
+
 [What I Tried]
+- Kept the previous code, built and debugged once again, made sure to the cursor is active in the data console.
+- Left the cursor not blinking and debugged.
+
 [Current Status]
+- Printf statement appreared on the data console.
+- Despite the cursor not blinking the printf statement worked.
+
+[Observation]
+- Without code changes, SWV printf output appeared on the data console on first debug run
+
+[Notes]
+- Cursor state (blinking vs not blinking) did not affect output
+- Root cause currently unknown
+
+
