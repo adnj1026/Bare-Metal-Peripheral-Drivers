@@ -12,3 +12,8 @@
 - watched lectures on clock and GPIO
 - did not work on hardware
 - Plan: work on hardware.
+
+[2026-01-02]
+- Implemented bare-metal clock configuration to route HSI to MCO1 (PA8).
+- Verified HSI output on oscilloscope via MCO1 pin (worked on first run).
+- Plan: Design and implement gpio.c driver (target: 3 days).
