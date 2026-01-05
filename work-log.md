@@ -17,3 +17,10 @@
 - Implemented bare-metal clock configuration to route HSI to MCO1 (PA8).
 - Verified HSI output on oscilloscope via MCO1 pin (worked on first run).
 - Plan: Design and implement gpio.c driver (target: 3 days).
+
+[2026-01-06]
+- Began designing GPIO initialization flow for bare-metal driver
+- Explored init abstractions and conditional handling for pin configuration
+- Implemented initial LED blink abstraction
+- Encountered build/runtime errors during integration
+- Next: resolve GPIO init errors and stabilize LED blink
