@@ -8,3 +8,4 @@ Unclear points encountered:
 Current direction:
 - Start with minimal abstraction for LED blink
 - Refine API once basic output works
+

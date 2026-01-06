@@ -24,3 +24,8 @@
 - Implemented initial LED blink abstraction
 - Encountered build/runtime errors during integration
 - Next: resolve GPIO init errors and stabilize LED blink
+
+[2026-01-7]
+- managed to debug and flash the bare metal code for blinking led
+- hardware led did not blink 
+- plan:  inspect GPIO init logic and abstraction assumptions
