@@ -29,3 +29,18 @@
 - managed to debug and flash the bare metal code for blinking led
 - hardware led did not blink 
 - plan:  inspect GPIO init logic and abstraction assumptions
+
+[2026-01-07]
+- Minimal progress; attempted brief debug/run (<10 min)
+- No substantive firmware changes
+
+[2026-01-08]
+- GPIO driver implemented: init, write.
+- LED successfully wrote on hardware
+- Changes not yet committed
+
+[2026-01-09]
+- GPIO driver implementation: read, otype, speed, alternate, toggle.
+- finished GPIO driver (for now).
+- blinked LED and viwed HSI signal via rounting through MC1 to pin 8; to test my code.
+- plan: learn and create bare metal code usart, interrupts, timers etc.
