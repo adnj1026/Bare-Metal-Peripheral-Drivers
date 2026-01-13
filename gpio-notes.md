@@ -9,3 +9,15 @@ Current direction:
 - Start with minimal abstraction for LED blink
 - Refine API once basic output works
 
+## GPIO Design. 
+
+Written function for:
+- init (sets mode and clock)
+- write
+- read
+- toggle
+- speed
+- pull
+- otype
+- alternate function
+

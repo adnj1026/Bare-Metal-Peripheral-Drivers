@@ -44,3 +44,14 @@
 - finished GPIO driver (for now).
 - blinked LED and viwed HSI signal via rounting through MC1 to pin 8; to test my code.
 - plan: learn and create bare metal code usart, interrupts, timers etc.
+
+[2026-01-11]
+- No firmware work (weekend)
+
+[2026-01-12]
+- No firmware work (headache + office testing tasks)
+
+[2026-01-12]
+- in an attempt to test all the gpio api's, I wrote code blink LED faster when the button is pushed.
+- the LED did not blink, plan to debug.
+- plan to use all the GPIO API. 
