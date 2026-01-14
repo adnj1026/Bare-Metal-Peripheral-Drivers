@@ -51,7 +51,11 @@
 [2026-01-12]
 - No firmware work (headache + office testing tasks)
 
-[2026-01-12]
+[2026-01-13]
 - in an attempt to test all the gpio api's, I wrote code blink LED faster when the button is pushed.
 - the LED did not blink, plan to debug.
 - plan to use all the GPIO API. 
+
+[2026-01-14]
+- No firm ware work done.
+
