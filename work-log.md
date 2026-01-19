@@ -67,3 +67,9 @@
 
 [2026-01-17]
 - No firm ware work done.
+
+[2026-01-18]
+- No firm ware work done.
+
+[2026-01-19]
+- No firm ware work done.
