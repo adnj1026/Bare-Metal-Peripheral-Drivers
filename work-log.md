@@ -73,3 +73,9 @@
 
 [2026-01-19]
 - No firm ware work done.
+
+[2026-01-20]
+- understood the working of interrupts
+- wrote code to evoke interrupts when button is pressed.
+- the led did not blink.
+- plan to debug it tomorrow.
