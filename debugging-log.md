@@ -40,4 +40,14 @@
 - Cursor state (blinking vs not blinking) did not affect output
 - Root cause currently unknown
 
+## LED not blinking when button is pressed (using interrupts) (2026-01-21)
+
+[Observation]
+- LED after button press is not blinking
+
+[What I Tried]
+- tried to debug by stepping over each line.
+- yet to pin point the exact problem
+
+
 
