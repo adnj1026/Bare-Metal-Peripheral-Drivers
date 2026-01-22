@@ -79,3 +79,10 @@
 - wrote code to evoke interrupts when button is pressed.
 - the led did not blink.
 - plan to debug it tomorrow.
+
+[2026-01-21]
+- tried to debug by stepping over.
+- yet to find the exact cause.
+
+[2026-01-22]
+- no firmware work done.
