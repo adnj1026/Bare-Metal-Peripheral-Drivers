@@ -49,5 +49,9 @@
 - tried to debug by stepping over each line.
 - yet to pin point the exact problem
 
+[hypothesis]
+- the on board button not working
+- button debouncing
+- interrupts are being triggered multiple times.
 
 

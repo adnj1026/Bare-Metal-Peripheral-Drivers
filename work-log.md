@@ -86,3 +86,25 @@
 
 [2026-01-22]
 - no firmware work done.
+
+
+[2026-01-23]
+- the led is blinking, even when the button is not pressed.
+
+
+[2026-01-24]
+- no firm ware work done.
+
+[2026-01-25]
+- no firm ware work done.
+
+[2026-01-26]
+- no firm ware work done.
+
+[2026-01-27]
+- connected external button
+- the led started toggling according to the interupts.
+
+[2026-01-28]
+- wrote isr.c and isr.h
+- toggled led via the abstraction.
