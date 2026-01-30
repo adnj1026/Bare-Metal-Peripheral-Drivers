@@ -108,3 +108,9 @@
 [2026-01-28]
 - wrote isr.c and isr.h
 - toggled led via the abstraction.
+
+[2026-01-29]
+no firm ware work done.
+
+[2026-01-30]
+no firmware work done.
