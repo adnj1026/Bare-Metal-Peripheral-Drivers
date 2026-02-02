@@ -114,3 +114,6 @@ no firm ware work done.
 
 [2026-01-30]
 no firmware work done.
+
+[2026-01-31, 2026-02-01 and 2026-02-02]
+no firm ware work done :(
