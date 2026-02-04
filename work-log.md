@@ -107,7 +107,7 @@
 
 [2026-01-28]
 - wrote isr.c and isr.h
-- toggled led via the abstraction.
+- toggled led via the written abstraction.
 
 [2026-01-29]
 no firm ware work done.
@@ -121,3 +121,6 @@ no firm ware work done :(
 [2026-02-03]
 - debugged previous code.
 - learned about implementing "priority in interrupts.
+
+[2026-02-04]
+- learn how to config SPI. No firmware work done.
