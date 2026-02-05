@@ -123,4 +123,7 @@ no firm ware work done :(
 - learned about implementing "priority in interrupts.
 
 [2026-02-04]
-- learn how to config SPI. No firmware work done.
+- learnt how to config SPI. No firmware work done.
+
+[2026-02-05]
+- went through datasheet, to configure SPI. no Firmware work done.
