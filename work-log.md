@@ -127,3 +127,9 @@ no firm ware work done :(
 
 [2026-02-05]
 - went through datasheet, to configure SPI. no Firmware work done.
+
+[2026-02-06]
+- enabled SPI clock.
+
+[2026-02-07]
+- no firm ware done.
