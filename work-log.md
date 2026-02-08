@@ -133,3 +133,6 @@ no firm ware work done :(
 
 [2026-02-07]
 - no firm ware done.
+
+[2026-02-08]
+- no firm ware done.
