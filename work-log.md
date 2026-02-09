@@ -136,3 +136,7 @@ no firm ware work done :(
 
 [2026-02-08]
 - no firm ware done.
+
+[2026-02-09]
+- configured GPIO AF.
+- plan to send a byte tomorrow.
