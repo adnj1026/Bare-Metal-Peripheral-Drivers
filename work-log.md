@@ -140,3 +140,6 @@ no firm ware work done :(
 [2026-02-09]
 - configured GPIO AF.
 - plan to send a byte tomorrow.
+
+[2026-02-10]
+- configured the SPI_CR bit.
