@@ -143,3 +143,9 @@ no firm ware work done :(
 
 [2026-02-10]
 - configured the SPI_CR bit.
+
+[2026-02-11]
+no firm ware work done.
+
+[2026-02-12]
+no firm ware work done.
