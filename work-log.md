@@ -149,3 +149,21 @@ no firm ware work done.
 
 [2026-02-12]
 no firm ware work done.
+
+[2026-02-13]
+no firm ware work done.
+
+[2026-02-14]
+no firm ware work done.
+
+[2026-02-15]
+no firm ware work done.
+
+[2026-02-16]
+no firm ware work done.
+
+[2026-02-17]
+- Wrote bare code to send some data.
+
+[2026-02-18]
+- wrote a basic SPI init function.
