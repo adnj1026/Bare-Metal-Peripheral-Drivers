@@ -167,3 +167,9 @@ no firm ware work done.
 
 [2026-02-18]
 - wrote a basic SPI init function.
+
+[2026-02-19]
+- wrote basic code to transmit data.
+
+[2026-02-19]
+- wrote basic code to transmit data. Learnt
