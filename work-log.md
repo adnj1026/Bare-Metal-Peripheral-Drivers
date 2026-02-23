@@ -171,5 +171,14 @@ no firm ware work done.
 [2026-02-19]
 - wrote basic code to transmit data.
 
-[2026-02-19]
-- wrote basic code to transmit data. Learnt
+[2026-02-20]
+- wrote basic code to transmit data. Learnt SPI theory.
+
+[2026-02-21]
+- no firm ware work done.
+
+[2026-02-22]
+- no firm ware work done.
+
+[[2026-02-23]
+- no firm ware work done.
