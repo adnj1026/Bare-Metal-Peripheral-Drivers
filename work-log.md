@@ -180,5 +180,5 @@ no firm ware work done.
 [2026-02-22]
 - no firm ware work done.
 
-[[2026-02-23]
+[2026-02-23]
 - no firm ware work done.
