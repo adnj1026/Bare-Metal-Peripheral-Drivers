@@ -182,3 +182,6 @@ no firm ware work done.
 
 [2026-02-23]
 - no firm ware work done.
+
+[2026-02-23]
+- no firm ware work done. been busy with bullshit internship work :(
