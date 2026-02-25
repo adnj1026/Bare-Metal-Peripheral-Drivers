@@ -183,5 +183,8 @@ no firm ware work done.
 [2026-02-23]
 - no firm ware work done.
 
-[2026-02-23]
+[2026-02-24]
 - no firm ware work done. been busy with bullshit internship work :(
+
+[2026-02-25]
+- wrote code for SPI transmission.
