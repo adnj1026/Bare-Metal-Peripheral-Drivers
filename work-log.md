@@ -188,3 +188,15 @@ no firm ware work done.
 
 [2026-02-25]
 - wrote code for SPI transmission.
+
+[2026-02-26]
+- no firm ware work done.
+
+[2026-02-27]
+- no firm ware work done.
+
+[2026-02-28]
+- no firm ware work done.
+
+[2026-03-01]
+- no firm ware work done.
