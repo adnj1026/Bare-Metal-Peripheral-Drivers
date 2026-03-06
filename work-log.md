@@ -200,3 +200,24 @@ no firm ware work done.
 
 [2026-03-01]
 - no firm ware work done.
+
+[2026-03-02]
+- The board is unable to compile. 
+- Debugging the issue..
+
+[2026-03-03]
+- The board is unable to compile. 
+- Debugging the issue.
+
+[2026-03-04]
+- The board is unable to compile. 
+- Debugging the issue.
+
+[2026-03-05]
+- The board is unable to compile. 
+- Debugging the issue.
+
+[2026-03-06]
+- The board is unable to compile. 
+- Debugging the issue.
+
