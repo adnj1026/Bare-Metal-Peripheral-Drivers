@@ -221,3 +221,8 @@ no firm ware work done.
 - The board is unable to compile. 
 - Debugging the issue.
 
+[2026-03-09]
+- blinked LED using UART interrupt via Serial Terminal
+
+[2026-03-10]
+- wrote SPI and UART bare metal code.
